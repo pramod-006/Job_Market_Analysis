@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ## 🧠 Author
 - Singana Pramod
 - Made with ❤️ for a portfolio project.
-- Connect on LinkedIn
+- Connect on [LinkedIn](https://www.linkedin.com/in/singanapramod)
 
 ## 📜 License
 - This project is licensed under the MIT License.
