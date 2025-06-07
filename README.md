@@ -68,24 +68,20 @@ job-market-analysis/
 git clone https://github.com/yourusername/job-market-analysis.git
 cd job-market-analysis
 pip install -r requirements.txt
+```
+---
 
+## 🧠 Author
+- Singana Pramod
+- Made with ❤️ for a portfolio project.
+- Connect on LinkedIn
 
-🧠 Author
-Singana Pramod
-Made with ❤️ for a portfolio project.
-Connect on LinkedIn
-
-📜 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
+## 📜 License
+- This project is licensed under the MIT License.
 
 ---
 
 Let me know if you'd like me to generate the `requirements.txt`, Colab badges, or the actual license file too.
-
 
 
 
